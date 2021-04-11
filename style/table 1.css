@@ -1,0 +1,86 @@
+
+table,caption,.head,.Tables{
+	margin-left: 5px;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.Tables button{
+		background: #A3CB38;
+		color: #ccc;
+		width: 100px;
+		height: 40px;
+		border: .5px solid #338033;
+		margin-bottom: 5em;
+		margin-top: 5px;
+	}
+.Tables a{
+	color:#fff ;
+	text-decoration: none;
+	font-size: 15px;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.Tables button:hover{
+	background: #006266;
+	color: #000;
+}
+._table a caption{
+font-size: 50px;
+color: #eab543;
+}
+hr{
+	width: 50%;
+	height: 2px;
+	border: 5px solid #eab543;
+	border-radius: 5px;
+	background: #a20a0a;
+	margin-top: 5em;
+	margin-bottom: 5em;
+}
+
+.head {
+	width: 700px;
+	height:600px;
+	border: 5px double #a20a0a;
+	float: left;
+	background-color: #dfe4ea;
+	color: #3b3b98;
+	display: block;   
+	font-family: Georgia, 'Times New Roman', Times, serif;
+
+  }
+  .head h1,
+  h4 {
+	text-align: center;
+	margin: 5px;
+	font-size: 19px;
+  }
+  img {
+	float: left;
+	margin: 4px;
+	width: 120px;
+	height: 115px;
+  }
+  
+  .head u h3 li {
+	list-style: none;
+	margin-left: 0;
+	font-size: 13px;
+  }
+  .head ul,
+  .head u h3,
+  .head ol {
+	margin: 5px;
+  }
+  h3 {
+	color: #000;
+  }
+  h1{
+	  color: #c0392b;
+  }
+  .buttom{
+	  display: block;
+	  position:absolute;
+	  left:45%;
+	  top: 95%;
+	  float: left;
+	  }
